@@ -1,0 +1,2 @@
+servo - 32 - gpio12
+buzzer - 16 - gpio23

@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=<Face Mask>
+Exec= python3 /home/pi/Desktop/Face-Mask-Detection/detect_mask_video.py
